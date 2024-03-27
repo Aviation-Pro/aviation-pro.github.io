@@ -3,11 +3,11 @@ title: Sales
 ---
 
 ## Sales and Management
-With an experienced Sales Team on hand and an extensive pool of Wheel and Brake inventory Rotable Repairs are proud to provide swift support on all Sales, Loans and Exchanges.
+With an experienced Sales Team on hand and an extensive pool of Wheel and Brake inventory Aviation Pro are proud to provide swift support on all Sales, Loans and Exchanges.
 
 ### Aircraft Part Sales
 
-Rotable Repairs can offer an extensive stock holding of aircraft wheel and brake material for sale of the following Aircraft Types; Boeing, Airbus, ATR and Embraer platforms plus many more different types. Our spares holding includes aircraft wheels, brakes, tyres, aircraft wheel spares, aircraft brake spares in New, overhauled and serviceable condition. For component parts we hold standard consumables and higher assembly component parts that are serviceable or re-certified in-house.
+Aviation Pro can offer an extensive stock holding of aircraft wheel and brake material for sale of the following Aircraft Types; Boeing, Airbus, ATR and Embraer platforms plus many more different types. Our spares holding includes aircraft wheels, brakes, tyres, aircraft wheel spares, aircraft brake spares in New, overhauled and serviceable condition. For component parts we hold standard consumables and higher assembly component parts that are serviceable or re-certified in-house.
 
 ### Aircraft Wheel Exchange, Loan, Consignment & Pooling
 
@@ -19,24 +19,24 @@ Overhaul brakes are held in stock available for aircraft brake exchange, aircraf
 
 ### Aircraft Wheel and Brake Management Solutions
 
-Due to Rotable Repairs extensive market knowledge customers can feel comfortable storing surplus material with us with at no additional costs and know the Rotable Repairs Sales Team can offer this material and market this to customers whilst still obtaining maximum profit.
+Due to Aviation Pro extensive market knowledge customers can feel comfortable storing surplus material with us with at no additional costs and know the Aviation Pro Sales Team can offer this material and market this to customers whilst still obtaining maximum profit.
 
 ### Aircraft Fleet Tyre Solutions
 
-Our sister company Watts Aviation is a authorised distributor for Goodyear, Michelin, Condor and McCreary as well as stocking Dunlop tyres, Rotable Repairs holds a wide selection of tyres in house but has next day access to 40,000 sq. ft of commercial, regional, corporate, regional and corporate aircraft tyres.
+Our sister company Watts Aviation is a authorised distributor for Goodyear, Michelin, Condor and McCreary as well as stocking Dunlop tyres, Aviation Pro holds a wide selection of tyres in house but has next day access to 40,000 sq. ft of commercial, regional, corporate, regional and corporate aircraft tyres.
 
 ### Inventory & Capabilities
 
-All Rotable Repairs stock is actively managed and listed on the following inventory platforms;
+All Aviation Pro stock is actively managed and listed on the following inventory platforms;
 
 1. ILS – Inventory Locating System
 1. STOCKMARKET.AERO
 1. PARTS BASE
 1. THE145.com
 
-With 24/7, 365 Days support Rotable Repairs can be on hand to supply all urgent exchange and loan requests.
+With 24/7, 365 Days support Aviation Pro can be on hand to supply all urgent exchange and loan requests.
 
-Being a MRO ( Material Repair Organisation ) gives Rotable Repairs complete flexibility to work with customers to minimalize costs and speed up and lead time. If you have a unit on Repair or Overhaul at Rotable Repairs you don’t need to worry because our experienced team will look after this and make sure its back on the shelf for your next request.
+Being a MRO ( Material Repair Organisation ) gives Aviation Pro complete flexibility to work with customers to minimalize costs and speed up and lead time. If you have a unit on Repair or Overhaul at Aviation Pro you don’t need to worry because our experienced team will look after this and make sure its back on the shelf for your next request.
 
 ## Aircraft Spares Supported from Stock
 

@@ -4,7 +4,7 @@ title: Location
 
 From the M25, Leave at junction 29 and follow the signs for Southend A127. Once you join the A127 stay on it for approx 19 miles, you will enter a 40MPH limit, at this point watch for speed cameras.
 
-Shortly after you will see a junction with traffic lights ahead of you. Please enter the left lane and turn off into Progress Road Industrial Estate and look out for Rotable Repairs on your right-hand side once you have entered Progress Road.
+Shortly after you will see a junction with traffic lights ahead of you. Please enter the left lane and turn off into Progress Road Industrial Estate and look out for Aviation Pro on your right-hand side once you have entered Progress Road.
 
 Please turn into the carpark and find an available space. There’s additional parking in Stephenson Road to the side of the facility.
 

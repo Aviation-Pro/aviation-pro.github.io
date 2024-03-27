@@ -27,7 +27,7 @@ title: Approvals
 </td>
 <td>
 <div class="ngg-center">
-<img src="//i3.wp.com/www.rotablerepairs.com/wp-content/uploads/2021/01/CAA-Thumb-Pg1.png" alt="ROTABLE REPAIRS CAA APPROVAL"></div>
+<img src="//i3.wp.com/www.rotablerepairs.com/wp-content/uploads/2021/01/CAA-Thumb-Pg1.png" alt="Aviation Pro CAA APPROVAL"></div>
 </td>
 </tr>
 <tr>
@@ -52,7 +52,7 @@ title: Approvals
 </td>
 <td>
 <div class="ngg-center">
-<img src="//i3.wp.com/www.rotablerepairs.com/wp-content/uploads/2021/01/CAA-Thumb-Pg2.png" alt="ROTABLE REPAIRS EASA APPROVAL"></div>
+<img src="//i3.wp.com/www.rotablerepairs.com/wp-content/uploads/2021/01/CAA-Thumb-Pg2.png" alt="Aviation Pro EASA APPROVAL"></div>
 </td>
 </tr>
 <tr>
@@ -77,7 +77,7 @@ title: Approvals
 </td>
 <td>
 <div class="ngg-center">
-<img src="//i3.wp.com/www.rotablerepairs.com/wp-content/uploads/2021/01/EASA-Thumb-pg1.png" alt="ROTABLE REPAIRS EASA APPROVAL"></div>
+<img src="//i3.wp.com/www.rotablerepairs.com/wp-content/uploads/2021/01/EASA-Thumb-pg1.png" alt="Aviation Pro EASA APPROVAL"></div>
 </td>
 </tr>
 <tr>
@@ -102,7 +102,7 @@ title: Approvals
 </td>
 <td>
 <div class="ngg-center">
-<div class="ngg-center"><img src="//i3.wp.com/www.rotablerepairs.com/wp-content/uploads/2021/01/EASA-Thumb-pg2.png" alt="ROTABLE REPAIRS EASA APPROVAL SCHEDULE"></div>
+<div class="ngg-center"><img src="//i3.wp.com/www.rotablerepairs.com/wp-content/uploads/2021/01/EASA-Thumb-pg2.png" alt="Aviation Pro EASA APPROVAL SCHEDULE"></div>
 </div></td>
 </tr>
 <tr>
@@ -126,7 +126,7 @@ title: Approvals
 </table>
 </td>
 <td>
-<div class="ngg-center"><img src="//i3.wp.com/www.rotablerepairs.com/wp-content/uploads/2021/01/TCCA-Thumb-Pg1.png" alt="ROTABLE REPAIRS TCCA          APPROVAL"></div>
+<div class="ngg-center"><img src="//i3.wp.com/www.rotablerepairs.com/wp-content/uploads/2021/01/TCCA-Thumb-Pg1.png" alt="Aviation Pro TCCA          APPROVAL"></div>
 </td>
 </tr>
 </tbody>
