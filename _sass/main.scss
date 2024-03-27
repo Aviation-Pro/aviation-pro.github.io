@@ -1,0 +1,49 @@
+body {
+    font-family: Heebo, Helvetica, sans-serif;
+    background: #f0f0f0;
+    color:#464646;
+}
+
+a {
+    color: inherit;
+    &:hover {
+        color: rgb(230, 69, 15);
+    }
+}
+
+h1, h2, h3 {
+    font-weight: bold;
+    color: #e6450f;
+    text-shadow: 1px 1px 2px #ababab;
+}
+
+.navbar-nav {
+    .nav-item {
+        &.active {
+            .nav-link {
+                color: rgb(230, 69, 15);
+            }
+        }
+        .nav-link {
+            font-weight: 500;
+        }
+    }
+}
+
+#main {
+        background: #f0f0f0;
+}
+
+footer {
+    background: url(/assets/images/Bottom_texture.jpg) repeat #464646;
+    color: #fff;
+    a {
+        color: #fff;
+        text-decoration: none;
+        
+    }
+    .list-group-item {
+        background-color: transparent;
+        border: 1px solid #464646;
+    }
+}
